@@ -21,7 +21,7 @@ Before executing tests, some test data configuration is needed.
 Inside /tests/data/testData.ts
 Change the following:
 
-1. Add username, password, userId from: 
+1. Add username, password, userId in: 
 
 ```json
 {
@@ -37,5 +37,5 @@ Change the following:
 }
 ```
 UserId can be found in the url bar, after logging in, on the profile page:
-https://demo.baasic.com/angular/starterkit-photo-gallery/profile/<userId>
+https://demo.baasic.com/angular/starterkit-photo-gallery/profile/userID
 
