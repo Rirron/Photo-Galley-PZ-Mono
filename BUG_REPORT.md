@@ -1,4 +1,4 @@
-#Bug Report
+# Bug Report
 
 All currently identified bugs are tracked in the repository’s **GitHub Issues** section.
 
